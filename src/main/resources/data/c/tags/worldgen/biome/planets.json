@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "#c:planets/earth",
+    "#c:planets/mercury",
+    "#c:planets/venus",
+    "#c:planets/mars",
+    "#c:planets/glacio"
+  ]
+}
